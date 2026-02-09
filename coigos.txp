@@ -1,0 +1,13 @@
+//cria comentario - deixa o codigo organizado
+//let - cria variaveis.
+//prompt - ele faz uma pergunta e espera uma resposta 
+//um sinal de =, atribui valor
+//=== compara se letras são iguais
+
+let aluno = prompt("qual é o nome do aluno");
+if(aluno === "lucas"){
+    consol.log("aluno do 3°A");
+}else{
+    console.log("não é aluno do 3°A")
+    
+}
